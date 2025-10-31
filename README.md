@@ -1,6 +1,6 @@
 # colorchanger
 
-A Flutter project
+First Flutter project on github
 
 ## Getting Started
 
