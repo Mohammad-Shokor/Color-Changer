@@ -13,6 +13,6 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Colorchangerrequired(),
-    ); // boring version, for cool one, change it to ColorChanger()
+    ); // boring version, for cool one, change it to ColorChangerCool()
   }
 }
